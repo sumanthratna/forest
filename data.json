@@ -1,0 +1,35 @@
+{
+	"shader":[
+		"grass",
+		"tree",
+		"rock",
+		"brush",
+		"point",
+		"ground"
+	]
+	,
+	"texture":{
+		"splatMap":"mx/grass_repartition.jpg",
+		"heightMap":"mx/grass_repartition.jpg",
+		"plants":"mx/grass4.png",
+		"plant":"mx/plant.png",
+		"grass4":"mx/grass4.png",
+		"tree":"mx/tree.png",
+		"rock":"mx/rock.jpg",
+		"rock_ao":"mx/rock_ao.jpg",
+		"ground":"mx/ground.jpg",
+		"grass":"mx/grass.jpg",
+		"particle":"mx/lensflare0.png",
+		"s_r":"mx/s_r.png",
+		"s_g":"mx/s_g.png",
+		"tree_ao":"mx/tree_ao.jpg",
+		"sky":"mx/morning03_low.jpg"
+	}
+	,
+	"geo":{
+		"plant_1":"mx/plant_1.json",
+		"tree":"mx/tree.json",
+		"rock":"mx/rock.json",
+		"grass":"mx/grass.json"
+	}
+}
